@@ -8,7 +8,7 @@
 ---
 
 ### 🧑‍💻 About Me
-
+- 🎓 Student at Centurion University of Technology and Management, pursuing BCA
 - 🎓 Recently completed an **Internship in MERN Stack Development**
 - 💡 Skilled in **C++, Java, Python, JavaScript**
 - 🌐 Comfortable building **REST APIs**, **Responsive UIs**, and using tools like **Git & GitHub**
