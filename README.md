@@ -50,18 +50,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" width="48%" />
 </p>
 
----
 
-### ✨ Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-121212?style=flat&logo=githubpages&logoColor=white" />
-  </a>
-</p>
